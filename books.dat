@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "tewt",
+        "description": "dfshsdf",
+        "isbn": "25",
+        "page_count": 25,
+        "issued": false,
+        "author": "asdf",
+        "year": 2021
+    },
+    {
+        "id": 4,
+        "name": "hola",
+        "description": "puta",
+        "isbn": "\u00f1lasjkdfa",
+        "page_count": 9,
+        "issued": false,
+        "author": "Yo",
+        "year": 1
+    }
+]
